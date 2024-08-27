@@ -14,11 +14,11 @@ div=x/y
 
 if z==1:
     print("Addition:",add)
-elif x==2:
+elif z==2:
     print("Substraction:",sub)
-elif x==3:
+elif z==3:
     print("Multiplication:",mult)
-elif x==4:
+elif z==4:
     print("Division:",div)
 else:
     print("Please enter a valid choice...")
